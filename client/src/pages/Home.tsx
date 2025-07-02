@@ -9,7 +9,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <div className="bg-black text-white">
+    <div className="bg-white text-gray-900">
       <Navigation />
       <Hero3D />
       <About />
