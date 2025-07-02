@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About INVIdata – Invisible Internal Data Security</title>
+  <link rel="stylesheet" href="styles.css" /> <!-- Link your actual CSS here -->
+</head>
+<body>
+  <header>
+    <h1>About INVIdata</h1>
+    <p class="tagline">Reimagining Cybersecurity with Zero-Byte, Self-Defending Data</p>
+  </header>
+
+  <section id="intro">
+    <p>
+      INVIdata is born from out-of-the-box thinking, deep research, and a bold vision to redefine cybersecurity. 
+      In a world plagued by increasing data thefts and sophisticated cyber threats, we set out to find solutions 
+      that go beyond firewalls, antivirus, and conventional encryption.
+    </p>
+    <p>
+      Our flagship innovation, <strong>Invisible Internal Data Security (IIDS)</strong>, doesn’t just protect data — 
+      it transforms it into an invisible, self-defending entity. By turning each data file into a zero-byte shielded object, 
+      we eliminate the risk of exposure, theft, and tampering from even the most advanced attacks.
+    </p>
+  </section>
+
+  <section id="why">
+    <h2>The Challenge</h2>
+    <p>
+      Despite investing in firewalls, anti-malware, cloud encryption, and secure access controls, 
+      companies still fall victim to breaches, ransomware, and insider threats. The digital battlefield is evolving — 
+      and so must our defenses.
+    </p>
+  </section>
+
+  <section id="problem">
+    <h2>What We Observed</h2>
+    <ul>
+      <li>Visible and accessible data is easy to hack.</li>
+      <li>Disgruntled or careless employees can clone or leak sensitive data.</li>
+      <li>Remote work culture increases risks of unauthorized duplication and data misuse.</li>
+      <li>Conventional security protects the *perimeter*, not the data itself.</li>
+    </ul>
+  </section>
+
+  <section id="solution">
+    <h2>Our Solution: INVIdata IIDS</h2>
+    <p>
+      After years of studying the modus operandi of hackers, scammers, and internal threats,
+      we’ve engineered a solution that eliminates the vulnerabilities at their core.
+    </p>
+    <p>
+      <strong>INVIcryption</strong> is our proprietary system powered by IIDS that ensures your files are:
+    </p>
+    <ul>
+      <li>🔒 <strong>Unauthorized Access Controlled:</strong> Only accessible from within a protected environment</li>
+      <li>🛡️ <strong>Non-Hackable:</strong> Immune to external attacks and ransomware</li>
+      <li>🧬 <strong>Non-Corruptible:</strong> Integrity preserved under all system states</li>
+      <li>🚫 <strong>Non-Transferable:</strong> Cannot be copied or misused from USB, email, or shared platforms</li>
+    </ul>
+    <p>
+      INVIdata doesn’t just create a wall around your data — it turns the data itself into the wall.
+    </p>
+  </section>
+
+  <section id="vision-reminder">
+    <h2>Our Vision</h2>
+    <p>
+      To empower every digital user with a new kind of data resilience — where every file becomes 
+      an invisible, unbreakable vault. With INVIdata, the future is not just secure… it’s invisible, 
+      self-defending, and hacker-free.
+    </p>
+  </section>
+
+</body>
+</html> <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INVIdata Technology – Invisible Internal Data Security</title>
+  <link rel="stylesheet" href="styles.css" /> <!-- Optional: link to your CSS -->
+</head>
+<body>
+  <header>
+    <h1>INVIdata Technology</h1>
+    <p class="tagline">The world’s first data security solution empowered with zero-byte self‑defense mechanisms.</p>
+  </header>
+
+  <section id="vision">
+    <h2>Our Vision</h2>
+    <p>We aim to revolutionize the future of data security by transforming every data file into an invisible, self‑defending fortress. With our groundbreaking <strong>Invisible Internal Data Security (IIDS)</strong> technology, we’re creating a world where data no longer depends solely on external protection. Instead, it becomes inherently secure within itself — appearing as a zero‑byte file, yet fully protected against unauthorized access, hacking, and ransomware.</p>
+  </section>
+
+  <section id="mission">
+    <h2>Our Mission</h2>
+    <ul>
+      <li>Make data invisible, untouchable, and undefeatable.</li>
+      <li>Shift security focus from external walls to self‑defending files.</li>
+      
+    </ul>
+  </section>
+
+  <section id="how-it-works">
+    <h2>How It Works</h2>
+    <p>Through our proprietary IIDS, INVIdata embeds self‑defense mechanisms inside your files. By placing them into a <strong>Virtual Invisible Partition (VIP)</strong>—a non‑bootable, OS‑layer shield—your critical data:</p>
+    <ul>
+      <li>Is invisible to attackers.</li>
+      <li>Appears as zero bytes when outside the VIP.</li>
+      <li>Remains secure even if your system is compromised.</li>
+      <li>Requires no technical expertise to use.</li>
+    </ul>
+  </section>
+
+  <section id="why-it-matters">
+    <h2>Why It Matters</h2>
+    <p>Conventional protection like firewalls, encryption, and antivirus software are crucial—but they offer defense from the outside. Once those walls break, data is exposed. INVIdata changes that by defending from the inside:</p>
+    <ul>
+      <li><strong>Ransomware Resistance:</strong> Even if your system is infected, files inside the VIP stay untouchable.</li>
+      <li><strong>Anti‑Exfiltration:</strong> Copies to USB, email, or cloud remain invisible and unreadable.</li>
+      <li><strong>No Keys Required:</strong> Forget lost passwords—your data protects itself.</li>
+    </ul>
+  </section>
+
+  
+
+  <section id="testimonials">
+    <h2>Words From Our Founder</h2>
+    <blockquote>
+      “Weapons may get snatched, passwords may get cracked—but INVIdata ensures your data can’t be seen, tracked, or abused.”  
+      <footer>— Dr. Dilip Rai, Founder & Inventor of INVIdata</footer>
+    </blockquote>
+  </section>
+
+ 
+</body>
+</html> <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INVImanager – Invisible Internal File Manager</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>INVImanager for Windows</h1>
+    <p class="tagline">Your invisible, self‑defending file manager — powered by zero‑byte IIDS protection.</p>
+    <nav>
+      <a href="about.html">About Us</a>
+      <a href="why.html">Why Choose Us</a>
+      <a href="invimanager.html" class="active">INVImanager</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+  </header>
+
+  <section id="overview">
+    <h2>What is INVImanager?</h2>
+    <p>
+      INVImanager is our offline Windows application that embeds our Invisible Internal Data Security (IIDS) directly into your files. It renders them invisible and self-defending — unusable, unreadable, and untraceable unless accessed via the secured INVImanager environment.
+    </p>
+  </section>
+
+  <section id="features">
+    <h2>Key Features</h2>
+    <ul>
+      <li>🔐 <strong>Zero-byte invisibility:</strong> Protected files appear as zero bytes outside INVImanager.</li>
+      <li>🛡️ <strong>Built-in file authentication:</strong> Internal checks ensure only authorized access within the secure environment.</li>
+      <li>💾 <strong>Non-transferable encryption:</strong> Exfiltrated files remain encrypted and unusable if copied or shared.</li>
+      <li>🛠️ <strong>Offline, secure usage:</strong> All processes run locally – no cloud dependency or external keys.</li>
+      <li>✅ <strong>Easy-to-use interface:</strong> Simply drag and drop any file into the dashboard to activate protection.</li>
+      <li>📈 <strong>Subscription flexibility:</strong> Monthly or annual billing — save up to 58% with yearly plans.</li>
+    </ul>
+  </section>
+
+  <section id="subscription">
+    <h2>Subscription Plans</h2>
+    <p>Select the plan that suits your needs—best value with annual billing!</p>
+    <table>
+      <thead>
+        <tr><th>Plan</th><th>Monthly Price</th><th>Annual Price</th><th>Best Value</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Single User</td><td>₹499/mo</td><td>₹2,499/yr</td><td>Save 58%</td></tr>
+        <tr><td>Small Team (up to 5)</td><td>₹1,499/mo</td><td>₹7,499/yr</td><td>Save 58%</td></tr>
+        <tr><td>Enterprise (6+ users)</td><td>Contact Sales</td><td>Contact Sales</td><td>Custom Pricing</td></tr>
+      </tbody>
+    </table>
+    <p>All plans include full access to INVImanager, priority updates, and support.</p>
+    <button class="btn">Choose Plan</button>
+  </section>
+
+  <section id="how-to-use">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Download and install INVImanager on your Windows PC.</li>
+      <li>Open the dashboard and drag your file(s) into the secure zone.</li>
+      <li>The file transforms into a zero-byte, self-defending object.</li>
+      <li>Access or restore the file anytime within INVImanager — invisible and protected elsewhere.</li>
+    </ol>
+  </section>
+
+  <footer>
+    <p>#ZeroByteSecurity #FileSelfDefense #INVImanager #IIDS #HackerFreeIndia</p>
+    <p>&copy; 2025 INVIdata Technology. All Rights Reserved.</p>
+    <p><small>Designed and developed by Growth Metaverse Pvt Ltd</small></p>
+  </footer>
+</body>
+</html> <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Why Choose INVIdata</title>
+  <link rel="stylesheet" href="styles.css"/> <!-- Link your stylesheet -->
+</head>
+<body>
+  <header>
+    <h1>Why Choose INVIdata?</h1>
+    <p class="tagline">Because visible data is vulnerable — we make files invisible, self‑defending, and unbreakable.</p>
+  </header>
+
+  <section id="challenge">
+    <h2>The Growing Threat Landscape</h2>
+    <p>
+      In today’s digital era, security solutions abound. And yet, data breaches, insider threats, ransomware, and remote‑work vulnerabilities continue to rise. We recognized that visible data is easy prey — and no amount of perimeter defenses can fully protect it.
+    </p>
+  </section>
+
+  <section id="our-innovation">
+    <h2>Our Groundbreaking Innovation</h2>
+    <p>
+      INVIdata is the first technology to embed invisible protection mechanisms directly inside data files — making them appear as zero-byte files unless accessed through a secure, controlled environment.
+    </p>
+    <p>
+      Think of it as a digitally sealed container: inaccessible, unreadable, and unresponsive to any unauthorized tools or systems. Unlike conventional encryption or access controls, our Invisible Internal Data Security (IIDS) safeguards data within itself — providing protection that travels with the file.
+    </p>
+  </section>
+
+  <section id="how-we-verify">
+    <h2>Fortified and Verified</h2>
+    <ul>
+      <li><strong>Zero-byte invisibility:</strong> Files appear empty or non-existent outside the secure virtual zone.</li>
+      <li><strong>Built-in integrity checks:</strong> Each file verifies its environment before becoming accessible.</li>
+      <li><strong>Internal fortification:</strong> Data is unreadable and unusable even if stolen, copied, or leaked.</li>
+    </ul>
+  </section>
+
+  <section id="benefits">
+    <h2>Key Advantages of Choosing INVIdata</h2>
+    <ul>
+      <li>🔐 <strong>Self‑Defending Data</strong> — security is embedded inside the file itself</li>
+      <li>🛡️ <strong>Ransomware & Breach Resistant</strong> — invisible files stay protected even after a full system compromise</li>
+      <li>📤 <strong>Leak-proof</strong> — copied or exfiltrated files remain zero-byte and unusable</li>
+      <li>💼 <strong>User-Friendly</strong> — works seamlessly without needing cybersecurity expertise</li>
+      <li>⚡ <strong>Future‑Ready Architecture</strong> — built for today’s threats and tomorrow’s standards</li>
+    </ul>
+  </section>
+
+</body>
+</html>
+based on this you task is build website in reactjs tailwindcss and js now use threejs framermotion ans also gsap locomotive as you want website is funlly animated and  Core Requirements:
+
+Home page with a dynamic 3D hero section (e.g., animated models, floating elements, scroll-linked interactions).
+
+Modular, component-based layout (React preferred).
+
+Fully responsive design (mobile/tablet/desktop support).
+
+Use lightweight performance-optimized assets.
+
+Integrate loading animations (3D or SVG-based).
+
+SEO-friendly structure (meta tags, alt attributes, crawlable content).
+
+Clean codebase with reusable Three.js components or integration with React-Three-Fiber (optional).
